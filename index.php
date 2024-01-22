@@ -1,6 +1,7 @@
 <?php
+//créer un dossier class et y mettre tout les autres fichier sauf index.php
 require_once ('./class/ecole.php');
-//ARNAUD FSICHER WEB1 gr1
+
 // 1) Créer une instance de l'école
 $ecole = new Ecole("Simulation d'école", "Hetic");
 
