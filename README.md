@@ -1,5 +1,5 @@
 
-# <p align="center">RPG - Python</p>
+# <p align="center">Ecole - PHP/p>
 
 # <p align="left">Objectif:</p>
   Concevoir un programme en PHP et en POO (programmation orienté objet), qui permettra de représenter le fonctionnement d'une école. 
